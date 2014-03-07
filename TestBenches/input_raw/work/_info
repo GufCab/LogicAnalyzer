@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Nikolaj\Dropbox\6_Semester\DSPC\LAB9_Filters
+Einputs_raw
+Z0 w1394194768
+Z1 DPx4 ieee 9 math_real 0 22 :iME`dTX54_U49lJNF5JI3
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\Nikolaj\Documents\GitHub\LogicAnalyzer\TestBenches\input_raw
+Z6 8C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/input_raw/inputs_raw.vhdl
+Z7 FC:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/input_raw/inputs_raw.vhdl
+l0
+L8
+V9g259<Z33^Wll?HK?75@>0
+Z8 OV;C;10.1b;51
+32
+Z9 !s108 1394197875.933000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/input_raw/inputs_raw.vhdl|
+Z11 !s107 C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/input_raw/inputs_raw.vhdl|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 @Q^d>gDRlY4dK_zGL1`WE0
+!i10b 1
+Aarch
+R1
+R2
+R3
+R4
+DEx4 work 10 inputs_raw 0 22 9g259<Z33^Wll?HK?75@>0
+l27
+L23
+Vi<@z2WQ>W<=U`S2IMcA6A3
+!s100 I2JPL>E[X]VEb>X:k1ckX1
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!i10b 1
+Einputs_raw_tb
+Z14 w1394197866
+R2
+R3
+R4
+R5
+Z15 8C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/input_raw/inputs_raw_tb.vhdl
+Z16 FC:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/input_raw/inputs_raw_tb.vhdl
+l0
+L5
+VP?[l[3f=`C0[GmjfZMeYI3
+!s100 NRPhgfafg@I8N9[R0Vg3f1
+R8
+32
+!i10b 1
+Z17 !s108 1394197876.058000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/input_raw/inputs_raw_tb.vhdl|
+Z19 !s107 C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/input_raw/inputs_raw_tb.vhdl|
+R12
+R13
+Abench
+R2
+R3
+R4
+Z20 DEx4 work 13 inputs_raw_tb 0 22 P?[l[3f=`C0[GmjfZMeYI3
+l30
+L8
+Z21 VZ260nbTo[K[Fe6KFRePh40
+Z22 !s100 <J4QDchGBED4]OY4JG3I42
+R8
+32
+!i10b 1
+R17
+R18
+R19
+R12
+R13

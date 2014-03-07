@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Mar 07 13:19:35 2014
+Quartus II 32-bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : LogicAnalyzerTop
+Top-level Entity Name : inputs_raw
+Family : Cyclone II
+Total logic elements : 24
+    Total combinational functions : 0
+    Dedicated logic registers : 24
+Total registers : 24
+Total pins : 18
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

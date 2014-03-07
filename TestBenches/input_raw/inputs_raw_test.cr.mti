@@ -8,4 +8,13 @@ Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
 -- Compiling entity inputs_raw
 -- Compiling architecture arch of inputs_raw
 
+} {} {}} C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/input_raw/inputs_raw_tb.vhdl {1 {vcom -work work -2002 -explicit C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/input_raw/inputs_raw_tb.vhdl
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity inputs_raw_tb
+-- Compiling architecture bench of inputs_raw_tb
+
 } {} {}}

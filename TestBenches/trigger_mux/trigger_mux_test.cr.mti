@@ -1,0 +1,20 @@
+C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/trigger_mux/trigger_mux.vhdl {1 {vcom -work work -2002 -explicit C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/trigger_mux/trigger_mux.vhdl
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity trigger_mux
+-- Compiling architecture arch of trigger_mux
+
+} {} {}} C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/trigger_mux/trigger_mux_tb.vhdl {1 {vcom -work work -2002 -explicit C:/Users/Nikolaj/Documents/GitHub/LogicAnalyzer/TestBenches/trigger_mux/trigger_mux_tb.vhdl
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity trigger_mux_tb
+-- Compiling architecture bench of trigger_mux_tb
+
+} {} {}}
